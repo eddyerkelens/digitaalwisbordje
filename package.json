@@ -1,0 +1,9 @@
+{
+  "name": "digitaalwisbordje",
+  "version": "0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^3.2.0"
+  }
+}
